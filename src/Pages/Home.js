@@ -4,7 +4,7 @@ import '../Style/Home.css'
 
 import MovieRow from '../components/MovieRow';
 import FeaturedMovie from "../components/FeaturedMovie";
-import Header from '../components/Header'
+import Header from '../components/HomeHeader'
 import Loading from '../components/Loading'
 
 export default function Home() {

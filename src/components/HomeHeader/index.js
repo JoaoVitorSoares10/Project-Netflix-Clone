@@ -1,5 +1,5 @@
 import React from 'react';
-import './Header.css';
+import './HomeHeader.css';
 
 export default function Header({black}){
     return(
