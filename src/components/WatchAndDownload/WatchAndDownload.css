@@ -1,0 +1,27 @@
+.indexPage--watchAndDownload {
+    background-color: #000;
+    border-bottom: 8px solid #333;
+    display: flex;
+}
+
+.watchAndDownload--watchText {
+    padding: 120px 50px 120px 200px;
+}
+
+.watchAndDownload--watchText h1{
+    font-size: 3.125rem;
+    margin-bottom: 10px;
+}
+
+.watchAndDownload--watchText h2{
+    font-size: 1.625rem;
+    font-weight: normal;
+}
+
+.watchAndDownload--watchAnimationImg {
+    padding: 0px 0px 0px 100px;
+}
+
+.watchAndDownload--watchAnimationImg img {
+    width: 500px;
+}
