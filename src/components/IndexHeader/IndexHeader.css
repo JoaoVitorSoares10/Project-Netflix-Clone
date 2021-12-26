@@ -80,3 +80,30 @@
     text-decoration: none;
     color: #fff
 }
+
+@media (max-width: 810px){  
+    .indexPage--header {
+        padding: 28px 18px;
+    }
+
+    .indexPage--header img {
+        width: 122px;
+        height: 26px;
+    }
+    
+    .indexPage--headerDropdownDropbtn {
+        width: 120px;
+        height: 26px;
+        margin-left: 30px; 
+    }
+    
+    .indexPage--headerDropdownContent {
+        margin-left: 30px; 
+    }
+
+    .indexPage--headerEnter {
+        height: 26px;
+        padding: 5px 13px;
+        margin-left: 10px;
+    }
+}

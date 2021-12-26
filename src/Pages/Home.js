@@ -61,7 +61,7 @@ export default function Home() {
       ))}
       </section>
 
-      <footer>
+      <footer className="HomeFooter">
         <p>Direitos de imagem para Netflix <br/>
         Dados fornecidos pelo site Themoviedb.org <br/>
         Projeto desenvolvido em conjunto com o canal Bonieky Lacerda</p>

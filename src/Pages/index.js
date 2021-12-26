@@ -6,6 +6,7 @@ import KidsProfile from '../components/KidsProfile';
 import WatchOnDevice from '../components/WatchOnDevice';
 import Watch from '../components/Watch';
 import WatchAndDownload from '../components/WatchAndDownload';
+import Footer from '../components/IndexFooter';
 
 import '../Style/index.css';
 
@@ -18,8 +19,7 @@ export default function Index(){
             <WatchAndDownload />
             <WatchOnDevice />
             <KidsProfile />
-            <div className='indexPage--commonQuestions'></div>
-            <div className='indexPage--footer'></div>
+            <Footer />
         </div>
     )
 }
