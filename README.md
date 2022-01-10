@@ -9,7 +9,7 @@ O Netflix Clone é um projeto para pratica de desenvolvimento front-end, promovi
 <p>
  <a href="#Features">Features</a> •
  <a href="#Pré-requisitos">Pré-requisitos</a> • 
- <a href="#🎲 Rodando o Front-end">Rodando o Back End</a> • 
+ <a href="#🎲 Rodando o Front-end">Rodando o Front End</a> • 
  <a href="#🛠 Tecnologias">Tecnologias</a> • 
  <a href="#Autor">Autor</a>
 </p>
