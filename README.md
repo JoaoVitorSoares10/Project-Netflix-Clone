@@ -4,7 +4,7 @@
 
 O Netflix Clone é um projeto para pratica de desenvolvimento front-end, promovido pelo canal Bonieky Lacerda, sendo uma aplicação que simula a página inicial do catalogo de filmes da netflix. Os dados dos filmes são disponibilidados pela API do site <a href="https://www.themoviedb.org/?language=pt-BR">The Movie Database</a>
 
-### 🚧 Netflix clone passará por melhorias...  🚧
+### 🚧 Netflix clone concluído...  🚧
 
 <p>
  <a href="#Features">Features</a> •
