@@ -1,10 +1,10 @@
-# Netflix Clone
-
-## Descrição do Projeto
-
-O Netflix Clone é um projeto para pratica de desenvolvimento front-end, promovido pelo canal Bonieky Lacerda, sendo uma aplicação que simula a página inicial do catalogo de filmes da netflix. Os dados dos filmes são disponibilidados pela API do site <a href="https://www.themoviedb.org/?language=pt-BR">The Movie Database</a>
-
-### Netflix clone concluído.
+<div align="center">
+ <h1>Netflix Clone</h1>
+ <h2>Descrição do Projeto</h2>
+ <p>O Netflix Clone é um projeto para pratica de desenvolvimento front-end, promovido pelo canal Bonieky Lacerda, sendo uma aplicação que simula a página inicial do catalogo de filmes da netflix. Os dados dos filmes são disponibilidados pela API do site <a href="https://www.themoviedb.org/?language=pt-BR">The Movie Database</a>   </p>
+ <br>
+ <img src="./src/assets/gif/homePageGif.gif" title="Netflix Clone Gif" alt="Netflix Clone Gif"/>
+</div>
 
 <p>
  <a href="#Features">Features</a> •
@@ -16,12 +16,12 @@ O Netflix Clone é um projeto para pratica de desenvolvimento front-end, promovi
 
 ### Features
 
-- [x] Visualização dos filmes do catálogo
+- [x] Visualização do catálogo de filmes
 
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [mongodb compass](https://www.mongodb.com/products/compass).
+[Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/);
 
 ### 🎲 Rodando o Front-end
 
